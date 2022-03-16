@@ -38,9 +38,6 @@ Everything will be based on the ERD class diagram presented below.
     <p>Entity Relationship Diagram (ERD) of Blog App project</p>
 </div>
 
-## Live demo link
-
-[Live server](https://e-wallet-app1.herokuapp.com/)
 
 #### Budge App Screenshots
 
