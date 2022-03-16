@@ -93,13 +93,6 @@ $ rails db:migrate
  ```
  $ bundle exec rspec
  ```
- </br>
- <div align="center">
-    <kbd>
-    <img alt="gif" src="https://user-images.githubusercontent.com/80895497/149379553-ff6689c2-0cce-490e-b663-dc4e384d5cd8.png" width=90% />
-    <p>23 Request Specs passed</p>
-       </kbd>
-</div>
 
 ## Built With
 
