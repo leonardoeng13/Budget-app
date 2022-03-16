@@ -41,6 +41,9 @@ Everything will be based on the ERD class diagram presented below.
 #### Budge App Screenshots
 
   ![screenshot](01.PNG);
+  ![screenshot](02.PNG);
+  ![screenshot](03.PNG);
+  ![screenshot](04.PNG);
 
 ## Getting Started
 
