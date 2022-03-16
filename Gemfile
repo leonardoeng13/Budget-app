@@ -48,6 +48,6 @@ gem 'font-awesome-rails'
 gem 'cancancan'
 gem 'devise'
 
-gem 'wdm','>= 0.1.0', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'wdm', '>= 0.1.0', platforms: %i[mingw mswin x64_mingw jruby]
 
 gem 'bulma-rails', '~> 0.9.2'
