@@ -48,7 +48,7 @@ Everything will be based on the ERD class diagram presented below.
   </tr>
   <tr>
   ![screenshot](01.PNG);
-    <!-- <td><img src="01.PNG" width=270 height=480></td> -->
+    <td><img src="01.PNG" width=270 height=480></td>
     <!-- <td><img src="https://user-images.githubusercontent.com/80895497/149399077-3f968a63-e965-4c7d-81b1-faa98ed0d7aa.PNG" width=270 height=480></td> -->
     <!-- <td><img src="https://user-images.githubusercontent.com/80895497/149399078-32dc8367-d76a-4255-8109-475835647212.PNG" width=270 height=480></td> -->
   </tr>
