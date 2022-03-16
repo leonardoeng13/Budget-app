@@ -121,9 +121,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 - Original design idea by [Gregoire Vella](https://www.behance.net/gregoirevella) on Behance.
-- Inspiration 💘
-- Microverse program ⚡
-- My standup team 😍
 - My family's support 🙌
 - MicroBros 😜
 
