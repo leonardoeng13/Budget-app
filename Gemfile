@@ -70,3 +70,12 @@ group :test do
   gem 'selenium-webdriver'
   gem 'webdrivers'
 end
+
+gem 'font-awesome-rails'
+
+gem 'cancancan'
+gem 'devise'
+
+gem 'wdm', '>= 0.1.0'
+
+gem 'bulma-rails', '~> 0.9.2'

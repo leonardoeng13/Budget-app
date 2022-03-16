@@ -26,7 +26,7 @@ we are gathered here today to get through this thing called LIFE."</em><strong> 
   </div>
    </br>
 
-# e-wallet app
+# Budget app
 
 A **Budget app** is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
