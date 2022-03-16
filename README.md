@@ -102,7 +102,7 @@ $ bundle exec rspec
 
 </br>
 
-## Authors
+## Author
 
 👤 **Leo de Andrade**
 
