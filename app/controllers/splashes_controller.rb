@@ -1,4 +1,3 @@
 class SplashesController < ApplicationController
-    def index; end
-  end
-  
+  def index; end
+end
