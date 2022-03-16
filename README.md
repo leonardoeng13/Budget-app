@@ -26,7 +26,9 @@ we are gathered here today to get through this thing called LIFE."</em><strong> 
   </div>
    </br>
 
-# e-wallet app
+# Budget app
+
+[Live Demo](https://leobudgetapp.herokuapp.com/)
 
 A **Budget app** is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
@@ -40,18 +42,10 @@ Everything will be based on the ERD class diagram presented below.
 
 #### Budge App Screenshots
 
-<table>
-  <tr>
-     <td>Splash Page</td>
-     <td>Categories Page</td>
-     <td>Transactions Page</td>
-  </tr>
-  <tr>
-    <!-- <td><img src="https://user-images.githubusercontent.com/80895497/149399069-130286e2-702e-403a-b713-1fa2b2c76832.PNG" width=270 height=480></td> -->
-    <!-- <td><img src="https://user-images.githubusercontent.com/80895497/149399077-3f968a63-e965-4c7d-81b1-faa98ed0d7aa.PNG" width=270 height=480></td> -->
-    <!-- <td><img src="https://user-images.githubusercontent.com/80895497/149399078-32dc8367-d76a-4255-8109-475835647212.PNG" width=270 height=480></td> -->
-  </tr>
- </table>
+  ![screenshot](01.PNG);
+  ![screenshot](02.PNG);
+  ![screenshot](03.PNG);
+  ![screenshot](04.PNG);
 
 ## Getting Started
 
@@ -110,9 +104,9 @@ $ bundle exec rspec
 
 </br>
 
-## Authors
+## Author
 
-👤 **Ellaouzi Hamza**
+👤 **Leo de Andrade**
 
 - GitHub: [leonardoeng13](https://github.com/leonardoeng13)
 - LinkedIn : [Leonardo de Andrade](https://www.linkedin.com/in/leonardodeandrade/)
